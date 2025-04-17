@@ -1,0 +1,12 @@
+<mvc:View controllerName="student.com.sap.training.advancedsapui5.fullscreen.controller.App"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+
+
+    <!-- Si se esta usando launchpad, para acceder a las rutas se tiene que agregar & antes de la ruta -->
+
+
+    <App id="app">
+    </App>
+</mvc:View>
